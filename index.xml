@@ -6,7 +6,17 @@
     <description>Recent content on Dhairya Agrawal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 12:08:59 -0700</lastBuildDate><atom:link href="https://dhairyaagrawal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Dhairya Agrawal - All rights reserved</copyright>
+    <lastBuildDate>Sat, 16 Apr 2022 14:14:08 -0700</lastBuildDate><atom:link href="https://dhairyaagrawal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aboutme</title>
+      <link>https://dhairyaagrawal.github.io/blog/aboutme/</link>
+      <pubDate>Sat, 16 Apr 2022 14:14:08 -0700</pubDate>
+      
+      <guid>https://dhairyaagrawal.github.io/blog/aboutme/</guid>
+      <description>Dhairya Agrawal</description>
+    </item>
+    
     <item>
       <title>Aboutme</title>
       <link>https://dhairyaagrawal.github.io/posts/aboutme/</link>
